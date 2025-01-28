@@ -3,8 +3,8 @@
 Welcome to my GitHub portfolio! Here, you'll find a collection of my projects organized into two categories:
 
 ## Cybersecurity Projects 🔐
-- [Project ThreatModel](https://github.com/MayadaAhmed1/Security): This is a trial project for applying Threat model
-
+- [Project ThreatModel](https://github.com/orgs/cybersecurity-projects/repositories): This is a trial project for applying Threat model
+  
 
 ## Software Quality Projects ✅
 - [Project ZeroCodeTrial](https://github.com/MayadaAhmed1/ZeroCodeTrial): This is a trial project for testing (API /Load / DB) using Zerocode framework 
