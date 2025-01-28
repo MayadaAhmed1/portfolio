@@ -9,6 +9,10 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects or
 ## Software Quality Projects ✅
 - [Project X](https://github.com/username/project-x): Brief description of Project X.
 - [Project Y](https://github.com/username/project-y): Brief description of Project Y.
+| Project Name  | Github Link | Description |
+| ------------- | ------------- | -------------|
+| ZeroCodeTrial  | [Content Cell](https://github.com/MayadaAhmed1/ZeroCodeTrial)  |  This is a trial project for testing (API /Load / DB) using Zerocode framework  |
+| Content Cell  | Content Cell  |    |
 
 ---
 
