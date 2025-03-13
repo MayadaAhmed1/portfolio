@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! Here, you'll find a collection of my projects organized into two categories:
 
 ## Cybersecurity Projects 🔐
-- [Project ThreatModel](https://github.com/orgs/cybersecurity-projects/repositories): This is a trial project for applying Threat model
+- [Project ThreatModel](https://github.com/cybersecurity-projects/Threat-model): This is a trial project for applying Threat model
 - [Project HomeLab](https://github.com/cybersecurity-projects/HomeLab): This is a trial project for applying Cyber attack by brute force SSH
 
 ## Software Quality Projects ✅
