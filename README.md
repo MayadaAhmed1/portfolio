@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects or
 
 
 ## Cloud Projects ☁️ 
-- [Project DockerLearning](https://github.com/MayadaAhmed1/DockerLearning/tree/main): This is a trial project creating docker file ,managing image/container and deploy dockerized App on cloud
+- [Project DockerLearning](https://github.com/MayadaAhmed1/DockerLearning/tree/main): This is a trial project contain basic steps to deploy dockerized simple Web App on cloud
 - 
 
 
